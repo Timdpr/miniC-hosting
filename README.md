@@ -6,7 +6,7 @@
 
 # Why?
 
-This project is made as an experiment to see if C can be learned easier if the lower level is covered in paralel.
+This project is made as an experiment to see if C can be learned easier if the lower level is covered in parallel.
 
 # Can I see it?
 
@@ -15,7 +15,7 @@ Demo: https://vasyop.github.io/miniC-hosting
 Tutorial (for people with 0 programming experience) : 
 * part 1 : https://vasyop.github.io/miniC-hosting/?0
 
-# Consider [supporting](https://github.com/vasyop/miniC-hosting/blob/master/support.md)
+# Consider [supporting](https://github.com/vasyop/miniC-hosting/blob/master/support.md) the project
 
 # Missing language features
 
