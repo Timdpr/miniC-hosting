@@ -1,23 +1,33 @@
-# What is it?
+## What is it?
 
 1. A simple stack-based virtual machine that runs C (missing features below) in the browser.
 
 2. The beginning of an interactive tutorial that covers C, how the VM works, and how the language is compiled.
 
-# Why?
+## Why?
 
 This project is made as an experiment to see if C can be learned easier if the lower level is covered in parallel.
+My current goal is to release a series of tutorials that teach C from the ground up, without having to take anything for granted.
+I strongly believe that understanding the thought process behind something makes learning it so much easier.
 
-# Can I see it?
+## Can I see it?
 
-Demo: https://vasyop.github.io/miniC-hosting
+[Sandbox](https://vasyop.github.io/miniC-hosting).
 
-Tutorial (for people with 0 programming experience) : 
-* part 1 : https://vasyop.github.io/miniC-hosting/?0
+Tutorial (for people with 0 programming experience or trying to learn C) : 
+* [Part 1](https://vasyop.github.io/miniC-hosting/?0).
+* [Part 2](https://vasyop.github.io/miniC-hosting/?1).
 
-# Consider [supporting](https://github.com/vasyop/miniC-hosting/blob/master/support.md) the project
+## Get [notified](https://docs.google.com/forms/d/e/1FAIpQLSectFtg9jl4zkFZqPnQkSRChNG7-I0qzR3247NRzdmAqEHCZA/viewform) when new tutorials are released.
 
-# Missing language features
+## Join the discussion on our **[subreddit](https://www.reddit.com/r/minic/)**.
+
+## [Staring](https://github.com/vasyop/miniC-hosting) helps.
+
+## Consider [supporting](https://github.com/vasyop/miniC-hosting/blob/master/support.md) the project
+
+
+### Missing language features
 
 * operator new is working (like in C++), no malloc
 
